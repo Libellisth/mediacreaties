@@ -2,3 +2,4 @@ VCS Integration of Github
 reponame + account token
 Add github submitter username to youtack user
 On the Dashboard add Widget: Issue Activity Feed
+An issue reference must be used in the commit message
