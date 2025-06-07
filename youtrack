@@ -4,3 +4,4 @@ Set the name field in the github profile submitter
 Add github name to youtack user's VCS names
 On the Dashboard add Widget: Issue Activity Feed
 An issue reference must be used in the commit message
+In VCS integration settings, vink aan check branch names for issue references
